@@ -1,4 +1,4 @@
-# AMCWC/AntiMainlandChinaWebCrawler/反中国大陆网络爬虫
+# AntiMainlandChinaWebCrawler/反中国大陆网络爬虫
 
 你是否还在因中国大陆网络爬虫在未经任何通知和允许的情况下私自将你的仓库/账号/组织镜像至它们自家的平台而困扰吗？  
 你是否还在担心此类事件会一次又一次的重演呢？  
